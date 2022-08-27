@@ -21,12 +21,12 @@ public class SubtracaoTest {
 		subtracao = sub.subtrair(-5,3);
 		System.out.println(subtracao);
 				
-		//Somar primeiro numero positivo maior que o segundo numero negativo
+		//Cenario de teste 5:Subtrair primeiro numero positivo maior que o segundo numero negativo
 		subtracao = sub.subtrair(7,-3);
 		System.out.println(subtracao);
 				
-		//Somar dois numeros zeros
-		subtracao = sub.subtrair(2,3);
+		//Cenario de teste 5:Subtrair dois numeros zeros
+		subtracao = sub.subtrair(0,0);
 		System.out.println(subtracao);
 		
 		}

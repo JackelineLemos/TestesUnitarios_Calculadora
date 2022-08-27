@@ -19,11 +19,11 @@ public class MultiplicacaoTest {
 		multiplicacao = mult.multiplicar(2,0);
 		System.out.println(multiplicacao);
 			
-		//Cenario de Teste 4: Somar primeiro numero o segundo numero positivo
+		//Cenario de Teste 4: Multiplicar primeiro numero o segundo numero positivo
 		multiplicacao = mult.multiplicar(-2,3);
 		System.out.println(multiplicacao);
 				
-		//Cenario de Teste 5: Somar primeiro numero positivo segundo numero negativo
+		//Cenario de Teste 5: Multiplicar primeiro numero positivo segundo numero negativo
 		multiplicacao = mult.multiplicar(2,-3);
 		System.out.println(multiplicacao);
 
