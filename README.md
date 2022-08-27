@@ -9,7 +9,7 @@ Desenvolver a habilidade de desenvolver testes unitários e criação de cenári
 ## :computer: Desenvolvido com
 Java - Eclipse 2022-06(IDE)
 
-## ⁉ Como ver o funcionamento do projeto?
+## :grey_question: Como ver o funcionamento do projeto?
 Para ter acesso ao projeto, basta clonar o repositório na sua máquina. Para possível suporte sugerido o uso do Eclipse.
 
 ## :woman_technologist: Desenvolvido por
